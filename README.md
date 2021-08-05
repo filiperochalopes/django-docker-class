@@ -4,15 +4,19 @@ Essa é uma plicação para estudo da stack django com docker e uso de alguns pa
 
 ## Python
 
-***Definição de Python***
+***Definição de Python:*** 
+É uma linguagem de programação de alto nível que utiliza o princípio da organização e beleza do código.
 
 ## Framework
 
-***Definição de Framework e Django***
+***Definição de Framework e Django:***
+Frameworks são pacotes de códigos prontos usados para facilitar e dar agilidade no desenvolvimento de sites.
+Django é um exemplo de framework escrito em Python, logo utiliza o mesmo princípio, garantindo rapidez e elegância.
 
 ## Docker
 
-***Definição de Docker***
+***Definição de Docker:***
+Docker é um software de virtualização de sistema operacional usado para reorganizar as estruturas necessárias ao entregar um software em pacotes facilitando o transporte, sem bugs ou corrupções de arquivo, para outro host que contenha o programa.
 
 ## Class 1 - Criando o projeto
 
