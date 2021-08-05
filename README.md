@@ -11,7 +11,7 @@ Essa é uma plicação para estudo da stack django com docker e uso de alguns pa
 
 ***Definição de Framework e Django:***
 Frameworks são pacotes de códigos prontos usados para facilitar e dar agilidade no desenvolvimento de sites.
-Django é um exemplo de framework escrito em Python, logo utiliza o mesmo princípio, garantindo rapidez e elegância.
+Django é um exemplo de framework escrito em Python, logo utiliza o mesmo princípio, que garante rapidez e elegância.
 
 ## Docker
 
